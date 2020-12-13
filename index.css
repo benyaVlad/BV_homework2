@@ -1,0 +1,23 @@
+body {
+    background: pink;
+    color: maroon;
+    font-family: "Comic Sans MS";
+}
+a {
+    color: inherit;
+}
+button {
+    background: maroon;
+    color: pink;
+}
+
+
+.table1 {
+    border-collapse: collapse;
+    border: 3px solid black;
+    width: 50%;
+}
+td, th {
+    border: 3px solid black;
+    text-align: center;
+}
